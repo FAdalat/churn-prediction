@@ -57,22 +57,20 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-Open `cv_project_1_clean.ipynb` and run cells in order — each checkpoint builds on the
+Open `main.ipynb` and run cells in order — each checkpoint builds on the
 previous one. Charts are saved to `outputs/charts/` as they're generated.
 
 ## Repository Structure
 
 ```
 churn-prediction/
-├── data/
-│   └── telco_churn.csv
-├── notebooks/
-│   └── cv_project_1_clean.ipynb
 ├── outputs/
 │   └── charts/              # EDA and SHAP visualizations
-├── .gitignore
+├── telco_churn.csv
+├── main.ipynb
 ├── requirements.txt
 ├── README.md
+├── LICENSE
 └── WRITEUP.md                # full business write-up
 ```
 
