@@ -18,7 +18,7 @@ imbalanced data, and explainable predictions.
 ## Dataset
 
 - **Source:** Kaggle — Telco Customer Churn
-- **Size:** ~7,000 rows, 21 original columns
+- **Size:** ~7,043 rows, 21 original columns
 - **Target:** `Churn` (Yes/No) — encoded to 1/0
 - **Class balance:** ~74% stayed, ~26% churned (imbalanced)
 
