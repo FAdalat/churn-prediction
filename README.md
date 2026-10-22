@@ -1,4 +1,4 @@
-# Credit Risk / Churn Prediction
+# Telco Customer Churn Prediction
 
 A binary classification project predicting whether a telecom customer will churn (cancel their
 service), based on account and usage data.
