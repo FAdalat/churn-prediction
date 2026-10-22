@@ -11,14 +11,14 @@ on a held-out test set, with SHAP explainability on the final model. See
 
 This project predicts customer churn using the
 [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-(~7,000 customers). The goal was not just to build a model that predicts churn, but to do it
+(7,043 customers). The goal was not just to build a model that predicts churn, but to do it
 with the rigor a real business use case demands: proper validation, honest evaluation on
 imbalanced data, and explainable predictions.
 
 ## Dataset
 
 - **Source:** Kaggle — Telco Customer Churn
-- **Size:** ~7,043 rows, 21 original columns
+- **Size:** 7,043 rows, 21 original columns
 - **Target:** `Churn` (Yes/No) — encoded to 1/0
 - **Class balance:** ~74% stayed, ~26% churned (imbalanced)
 
